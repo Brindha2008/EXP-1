@@ -1,4 +1,6 @@
 # EXP-1
+## NAME:-BRINDHA A R
+## DATE:-11/03/2008
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -72,5 +74,13 @@ b.  KCL:
 
 
 RESULT:
+<img width="808" height="1280" alt="image" src="https://github.com/user-attachments/assets/9cef5103-03e8-4f71-94c7-84147b1f94db" />
+
+<img width="834" height="1280" alt="image" src="https://github.com/user-attachments/assets/c2e877da-30ea-45c7-b669-e93a661afe0d" />
+
+<img width="831" height="1280" alt="image" src="https://github.com/user-attachments/assets/d163d3fe-8e31-45e2-b292-e46d5e724f96" />
+
+
+
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
